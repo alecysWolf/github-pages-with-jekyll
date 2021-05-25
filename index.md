@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Bem bindo ao meu vindo"
 ---
-
-I'm glad you are here. I plan to talk about ...
+Eu te amo
